@@ -15,13 +15,6 @@ public class DocumentDelete {
 
         System.out.println(result.toString());
     }
-
-    /*
-     *
-     * Implement methods from original project 
-     * 
-     */
-
 }
 ```
 

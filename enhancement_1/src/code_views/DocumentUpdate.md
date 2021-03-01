@@ -15,13 +15,6 @@ public class DocumentUpdate {
         WriteResult result = coll.update(query, update, true, false);
         System.out.println(result.toString());
     }
-
-    /*
-     *
-     * Implement methods from original project 
-     * 
-     */
-    
 }
 ```
 
