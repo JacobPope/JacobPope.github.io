@@ -1,2 +1,2 @@
 - [Return to Home](../../../index.md)
-- [Return to Enhancement 1 Page] (../../enhancement1.md)
+- [Return to Enhancement 1 Page](../../enhancement1.md)
