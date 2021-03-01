@@ -12,9 +12,7 @@
 - [RESTController.java](./src/code_views/RESTController.md)
 - [SpringRESTApplication.java](./src/code_views/SpringRESTApplication.md)
 
-
-
-### Links
+## Links
 - [Home](/index.md)
 - [Code Review](https://youtu.be/ApvjrFq6wMU)
 - [Artifact Enhancement 2](/enhancement_2/enhancement2.md)
