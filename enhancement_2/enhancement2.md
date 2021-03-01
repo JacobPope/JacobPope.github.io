@@ -11,7 +11,7 @@
 - [RestAPIDriver](RestAPIDriver.md)
 
 ## Links
-- [Home](./index.md)
+- [Home](../index.md)
 - [Code Review](https://youtu.be/ApvjrFq6wMU)
-- [Artifact Enhancement 1](/enhancement_1/enhancement1.md)
-- [Artifact Enhancement 3](/enhancement_3/enhancement3.md)
+- [Artifact Enhancement 1](../enhancement_1/enhancement1.md)
+- [Artifact Enhancement 3](../enhancement_3/enhancement3.md)
