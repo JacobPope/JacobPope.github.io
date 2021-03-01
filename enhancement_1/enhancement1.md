@@ -11,3 +11,9 @@
 - [FunctionalityTestApp.java](./src/code_views/FunctionalityTestApp.md)
 - [RESTController.java](./src/code_views/RESTController.md)
 - [SpringRESTApplication.java](./src/code_views/SpringRESTApplication.md)
+
+### Links
+- [Home](/index.md)
+- [Code Review](https://youtu.be/ApvjrFq6wMU)
+- [Artifact Enhancement 2](/enhancement_2/enhancement2.md)
+- [Artifact Enhancement 3](/enhancement_3/enhancement3.md)
