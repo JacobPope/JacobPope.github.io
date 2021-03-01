@@ -13,7 +13,7 @@ To showcase these learned skills, I will be taking the project from a course in 
 ### Final Remarks
 The ability to overcome and adapt is invaluable. My father was gave me the advice once "You don't always need to know the answer, you just need to know where you can get the answer." This has stuck with me throughout my life and I think it holds especially true with Computer Science; there is so much to learn and discover that it's impossible to know everything, but being able to find the information is the first step towards achieving that. This advice helped me get to where I am today and create the artifacts in this portfolio.
 
-#### Links
+## Links
 - [Code Review](https://youtu.be/ApvjrFq6wMU)
 - [Artifact Enhancement 1](enhancement_1/enhancement1.md)
 - [Artifact Enhancement 2](enhancement_2/enhancement2.md)
