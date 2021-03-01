@@ -1,4 +1,5 @@
 # Professional Self-Assessment
+
 ## Personal 
 It has been a long journey through my degree. As a kid I was always surrounded by technology as my dad worked as a developer for local financial instituations. From there and my passion for video games I always knew I would want to go into Software Development/Engineering. Throughout the program I was constantly facinated by the capabilities of computers and how powerful they truly have become. You'd have to be lying to yourself to think they would be going away. This is why I wanted to utilize love for computers to help better the world.
 
