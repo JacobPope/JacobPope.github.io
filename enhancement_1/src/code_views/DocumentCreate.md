@@ -1,6 +1,3 @@
-- [Return to Home](../../../index.md)
-- [Return to Enhancement 1 Page](../../enhancement1.md)
-
 ## Code
 ```java
 /*
@@ -73,3 +70,7 @@ public class DocumentCreate
 
 }
 ```
+
+## Links
+- [Return to Home](../../../index.md)
+- [Return to Enhancement 1 Page](../../enhancement1.md)
